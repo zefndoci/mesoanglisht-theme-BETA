@@ -1,0 +1,272 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	
+}
+.container{
+	width: 960px;
+	height: auto;
+	margin: auto;
+
+	
+}
+header{
+	height: 186px;
+}
+
+.headmenu {
+	width: 305px;
+	height: 40px;
+
+}
+
+.headmenu ul{
+	padding-left: 0px;
+	margin-bottom: 5px;
+}
+.headmenu ul li{
+	display: inline-block;
+	font-family: 'Merriweather', serif;
+
+
+	
+}
+.headmenu ul li a{
+	text-decoration: none;
+	margin-bottom: 0px;
+	color: #f95105;
+
+}
+hr{
+	width: 960px;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 0px;
+
+}
+.logo{
+	width: 185px;
+	height: 50px;
+	float: left;
+
+}
+
+.logo a{
+	text-decoration: none;
+	color: #656565;
+}
+.logo h1{
+	
+	font-size: 24px;
+	font-family: serif;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-family: 'Merriweather', serif;
+
+}
+.logo h3{
+	padding-top: 5px;
+	font-size: 20px;
+	padding: 0px;
+	font-family: serif;
+	margin-top: 0px;
+	font-family: 'Merriweather', serif;
+	
+}
+
+.mainmenu ul li a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+
+
+}
+.mainmenu ul li{
+	display: inline-block;
+	margin-right: 30px;
+	padding-top: 10px;
+	font-family: 'Merriweather', serif;
+	padding-bottom: 10px;
+
+
+}
+
+.mainmenu{
+	width: 960px;
+	height: 45px;
+	background-color: #5c5c5c;
+	
+}
+
+#search{
+	font-size: 16px;
+}
+
+.headerbaner{
+	width: 465px;
+	height: 80px;
+	background-color: #5c5c5c;
+	position: relative;left: 495px;
+	margin-bottom: 18px;
+
+}
+.fatured{
+	width: 600px;
+	height: 300px;
+	background-color: #232323;
+	margin-top: 20px;
+	float: left;
+	margin-right: 0px;
+	padding: 0px;
+}
+.redbox{
+	height: 300px;
+	width: 350px;
+	background-color: #f95105;
+	float: right;
+	margin-top: 20px;
+	margin-left: 0px;
+	padding: 0px;
+}
+
+.redbox p{
+	color: white;
+	font-size: 14px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: 'Merriweather', serif;
+}
+.creading {
+	margin-top: 100px;
+}
+.blackbox{
+	width: 200px;
+	height: 30px;
+	background-color: #232323;
+	margin-top: 20px;
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 0px;
+
+
+}
+.blackbox a{
+
+	text-decoration: none;
+	color: #f95105;
+	font-size: 20px;
+	margin-left: 5px;
+	margin-top: 3px;
+	font-family: 'Merriweather', serif;
+	text-align: center;
+
+}
+
+.blackbox h3 a{
+	text-decoration: none;
+	color: #f95105;
+}
+.smallbox{
+	width: 138px;
+	height: 120px;
+	background-color: #f95105;
+	margin-top: 35px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+.smalltext {
+	margin-top: 90px;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	color: white;
+}
+.smalltext a{
+	text-decoration: none;
+	color: white;
+}
+
+.aside{
+	
+	width: 35%;
+	display: inline-block;
+
+
+}
+
+.aside img {
+	margin-top: 20px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	
+
+}
+.aside p{
+	margin: 0px;
+	padding: 0px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	font-family: 'Merriweather', serif;
+	
+	
+
+}
+.aside h3{
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+	width: 40%;
+	font-family: 'Merriweather', serif;
+	margin-bottom: 10px;
+
+	
+
+}
+.aside h3 a{
+	text-decoration: none;
+	font-size: 18px;
+
+
+}
+
+.hraside{
+	float: right;
+	width: 350px;
+
+}
+.article{
+	width: 60%;
+	float: left;
+
+
+}
+
+.article h2{
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	margin-top: -420px;
+	
+}
+.article p{
+	margin-top: -380px;
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+}
+
+.blackfooter{
+	margin-top: 10px;
+	height:130px;
+	width: 960px;
+	background-color: #000;
+	
+}
+
+.grayfooter{
+	height:40px;
+	width: 960px;
+	background-color: #666;
+}
